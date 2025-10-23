@@ -1,0 +1,15 @@
+
+---
+
+## ⚙️ **2️⃣ requirements.txt **
+
+```txt
+pandas
+numpy
+scikit-learn
+plotly
+seaborn
+matplotlib
+streamlit
+python-pptx==0.6.23
+kaleido==0.2.1
