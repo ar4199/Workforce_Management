@@ -18,7 +18,7 @@ It provides insights into workforce distribution by **industry, gender, and stat
 
 ---
 
-## 🧰 Tools & Technologies Used
+## 🧰 Tools Used
 
 | Category | Tools/Libraries |
 |-----------|----------------|
